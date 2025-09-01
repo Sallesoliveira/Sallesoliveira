@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Guilherme Faleiros!
 
-<!--
-**Sallesoliveira/Sallesoliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Segurança Cibernética  
+💻 Focado em aprender Pentest, Redes, Programação e Sistemas Operacionais  
+🌍 Objetivo: construir uma carreira internacional em Cybersecurity
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Em aprendizado
+
+- Sistemas Operacionais (Linux, Windows)  
+- Redes e Protocolos  
+- Programação (Python, Bash, conceitos de C/C++)  
+- Conceitos de Segurança Cibernética e Pentest  
+
+> *Ainda em fase de estudo e prática; projetos serão adicionados em breve*
+
+---
+
+## 🎯 Objetivos de Curto e Médio Prazo
+
+1. Dominar matérias práticas da faculdade em Segurança Cibernética  
+2. Criar portfólio público com scripts, labs e relatórios  
+3. Participar de CTFs e desafios online  
+4. Alcançar fluência em inglês e TOEFL 100+  
+5. Construir networking e cartas de recomendação para mestrado internacional  
+
+---
+
+## 📫 Contato
+
+- LinkedIn: (https://www.linkedin.com/in/guilherme-faleiros-4283371a0)  
+- E-mail: guilhermeosales19@gmail.com 
